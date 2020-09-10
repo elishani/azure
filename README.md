@@ -1,1 +1,1 @@
-# azure
+# azure template
